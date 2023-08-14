@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Les Privat Pulosari</title>
+  </head>
+  <body>
+    <div class="container">
+      <div class="header">
+        <h1 class="judul"><i class="fa-solid fa-lightbulb"></i> Les Privat Pulosari</h1>
+        <ul>
+          <li><a href="#">home</a></li>
+          <li><a href="#">about</a></li>
+          <li><a href="#">product</a></li>
+          <li><a href="#">services</a></li>
+          <li><a href="#">contact</a></li>
+        </ul>
+      </div>
+      <div class="hero"></div>
+      <div class="content">
+        <h2>Memilih Les privat Terbaik Via WEb</h2>
+        <p class="penulis">ditulis oleh <a href="#">Darsam, S.Pd.</a>, pada 11 Agustus 2023.</p>
+
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae quas dicta cumque cupiditate repudiandae voluptatibus illum laboriosam voluptas error omnis!</p>
+
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum eveniet quasi dolor officiis quod similique consequuntur itaque, repellat natus amet corrupti quos voluptatem. Fugit excepturi ea aspernatur, molestiae id eius
+          dignissimos mollitia voluptatum magnam distinctio quis recusandae repellat rerum quisquam vel vitae corporis tempora, in officiis necessitatibus perferendis libero corrupti. Nulla, cum aut tempore veritatis ratione inventore
+          molestias adipisci asperiores, nostrum laboriosam fugiat voluptate maiores quidem, quibusdam earum? Quasi quibusdam at excepturi vitae, accusantium sequi quam asperiores veniam eos aliquam harum incidunt commodi laboriosam aut,
+          quisquam nobis ea aperiam beatae animi! Laboriosam eos quis officiis, eius impedit amet quae accusantium.
+        </p>
+
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, impedit facilis exercitationem sapiente molestiae sed a unde tempore harum voluptate et quibusdam totam aliquam laborum voluptatibus dolor consequatur minima
+          repellendus aut perferendis placeat beatae. Nulla sequi sint necessitatibus! Rem ad explicabo soluta fugit debitis! Veritatis, obcaecati. Tempore quo reiciendis facilis vitae dolorem ipsa distinctio laudantium facere, quidem a
+          blanditiis temporibus? Alias minus possimus iusto explicabo laborum voluptatibus illo ex quibusdam autem, architecto nostrum accusamus inventore odit rem sed hic quos.
+        </p>
+      </div>
+      <div class="footer">
+        <p class="copy"><em>Copyright</em> @Les Privat Pulosari 2023</p>
+      </div>
+    </div>
+  </body>
+</html>
+
